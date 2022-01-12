@@ -1,2 +1,2 @@
 # open-arizona
-Leaked Arizona RolePlay gamemode.
+The original gamemode laid out by the founder.
